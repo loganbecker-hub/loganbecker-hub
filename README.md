@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logan Becker</h1>
 <h3 align="center">A passionate Embedded Systems Engineer from Namibia. I design, develop, test and debug Embedded Software.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loganbecker-hub" alt="loganbecker-hub" /></a> </p>
-
-- 🌱 I’m currently learning **Embedded Linux**
+- 🌱 I’m currently learning **Embedded Linux and 3D Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
